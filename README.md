@@ -1,16 +1,33 @@
-## Hi there 👋
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
 
-<!--
-**Supernico09/supernico09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Esto es una cita 
 
-Here are some ideas to get you started:
+> Esto es otra cita 
+>> Esto es una concatenación 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Listas:
+
+- Elemento 
+- Elemento
+- Elemento
+    - Subelemento
+
+ ***
+
+*lo q queramos* (cursiva)
+
+**lo q quieras** (negrita)
+
+***lo q quiera pepe*** (negrita+cursiva)
+
+[El texto q contiene el enlace](https://github.com)
+
+imagenes:
+
+![balon de futbol](ruta imagen)
+
+<img src='ruta imagen' alt='logo de fútbol' width='300px'/>
+
