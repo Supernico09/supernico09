@@ -1,33 +1,41 @@
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
+# Licencias NVG
 
-> Esto es una cita 
+Distribuidor de licencias de software de distinos SO como Linux, MacOS y Windows, la función principal de mi empresa es suministrar licencias a tiendas de informática o empresas relacionadas.
 
-> Esto es otra cita 
->> Esto es una concatenación 
+Las empresas confían en mi ya que soy un vendedor fiable y de calidad, si necesitas licencias y eres una empresa del ámbito informático que está interesada no dudes en contactarme.
 
-Listas:
+Este espacio lo utilizo para compartir futuras ofertas o pedidos realizados.
 
-- Elemento 
-- Elemento
-- Elemento
-    - Subelemento
+<img width="353" alt="Captura de pantalla 2025-05-29 a las 15 45 15" src="https://github.com/user-attachments/assets/7cbf7307-fd0a-42ca-af94-e02438bea8bf" />
 
- ***
 
-*lo q queramos* (cursiva)
 
-**lo q quieras** (negrita)
+---
 
-***lo q quiera pepe*** (negrita+cursiva)
+## Experiencia reciente
 
-[El texto q contiene el enlace](https://github.com)
+Actualmente colaboro con empresas como Cloud Computing, Game, Canarias Educación y Media Markt.
 
-imagenes:
+Antes de esto, participé como programador en una empresa de creación de videojuegos y como administrador de sistemas en Cloud Computing.
 
-![balon de futbol](ruta imagen)
+---
 
-<img src='ruta imagen' alt='logo de fútbol' width='300px'/>
+### Herramientas que uso frecuentemente
+
+- Gestión de licencias (VLSC)
+- Gestión de clientes y ventas (CRM)
+- Facturación y contailidad (Xero)
+- Distribución y entrega de productos (Tech Data)
+- Automatización y marketing (Zapier)
+
+---
+
+### Contacto
+
+- [LinkedIn](https://linkedin.com/in/NVGlincencias)
+- [Portafolio](https://NVGlicencias.dev) 
+- licenciasNVG@gmail.com
+
+---
+
 
